@@ -1,6 +1,0 @@
-[book]
-authors = ["aohja"]
-language = "en"
-multilingual = false
-src = "src"
-title = "Introduction to Game Development on Windows"
